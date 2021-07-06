@@ -2,13 +2,16 @@
 Vannila Weather is a basic vanilla based application for getting realtime weather data according to your location.
 
 ## Installation
-__
+    - Clone the repository
 
 ## Usage
-Just open the HTML file in your favorite browser, that all!
+    - Run index.html
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## version
+v.1.01
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
